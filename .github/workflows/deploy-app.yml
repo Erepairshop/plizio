@@ -101,6 +101,29 @@ jobs:
           echo "POI HTML count after rsync: $COUNT"
           test "$COUNT" -gt 100000
 
+      - name: Link shared image dirs into runner workspace (for image-fallback lookup)
+        shell: bash
+        run: |
+          set -euo pipefail
+          # generate-poi-html.mts scans public/poi-images + public/geo-images at
+          # startup to backfill missing hero images. The actual files live in
+          # ~/plizio/shared/{poi,geo}-images on the VPS — symlink them so the
+          # IMG_SET gets populated.
+          if [ -d "${{ env.RELEASE_BASE }}/shared/poi-images" ]; then
+            ln -sfn "${{ env.RELEASE_BASE }}/shared/poi-images" public/poi-images
+            echo "Linked public/poi-images → shared (files: $(ls public/poi-images | wc -l))"
+          fi
+          if [ -d "${{ env.RELEASE_BASE }}/shared/geo-images" ]; then
+            ln -sfn "${{ env.RELEASE_BASE }}/shared/geo-images" public/geo-images
+            echo "Linked public/geo-images → shared (files: $(ls public/geo-images | wc -l))"
+          fi
+
+      - name: Regenerate POI HTML with image fallback (overrides rsync'd HTMLs)
+        env:
+          OUT_DIR: out
+          GEN_LIMIT: '0'
+        run: npx tsx scripts/generate-poi-html.mts
+
       - name: Force sitemap.xml index into out/
         run: |
           set -euo pipefail
