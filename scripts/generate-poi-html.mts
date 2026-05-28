@@ -87,6 +87,87 @@ try {
   }
 } catch {}
 
+// Image fallback index — many POI source files lack the `image` field even
+// though a matching .webp lives on VPS under /poi-images/ or /geo-images/.
+// Scan once at startup; if `poi.image` is empty, render-time fallback uses
+// `/poi-images/<id>.webp` first, then `/geo-images/<id>.webp`, then a wider
+// per-country pattern match (france-<id>-cities-v2.webp etc).
+const IMG_SET = new Set<string>();
+const IMG_BY_STEM = new Map<string, string>(); // normalized stem → "/poi-images/<file>" path
+try {
+  for (const dir of ["public/poi-images", "public/geo-images", "poi-images", "geo-images"]) {
+    const abs = path.resolve(process.cwd(), dir);
+    if (!fs.existsSync(abs)) continue;
+    const urlPrefix = dir.startsWith("public/") ? "/" + dir.slice("public/".length) : "/" + dir;
+    for (const f of fs.readdirSync(abs)) {
+      if (!f.endsWith(".webp")) continue;
+      IMG_SET.add(f);
+      const stem = f.slice(0, -5); // strip .webp
+      const url = `${urlPrefix}/${f}`;
+      // Exact key
+      if (!IMG_BY_STEM.has(stem)) IMG_BY_STEM.set(stem, url);
+      // Pattern variants: strip `france-` / `<country>-` prefix and `-cities-v2` / `-bis-cities-v2` / `-extra` suffixes
+      let core = stem;
+      core = core.replace(/^(france|germany|hungary|romania|italy|spain|poland|austria|switzerland|netherlands|belgium|portugal|ireland|uk|greece|croatia|bulgaria|sweden|norway|denmark|finland|czech|slovakia|slovenia|estonia|latvia|lithuania)-/i, "");
+      core = core.replace(/-(bis|south|north|east|west|alt|south2|north2)-(cities|history|landmarks|life|economic|nature|relief)-v\d+$/i, "");
+      core = core.replace(/-(cities|history|landmarks|life|economic|nature|relief)-v\d+$/i, "");
+      core = core.replace(/-(extra|poi|v\d+)$/i, "");
+      if (core !== stem && !IMG_BY_STEM.has(core)) IMG_BY_STEM.set(core, url);
+    }
+  }
+  if (IMG_SET.size > 0) {
+    console.log(`[poi-html] image-index: ${IMG_SET.size} files, ${IMG_BY_STEM.size} lookup keys`);
+  }
+} catch (e) {
+  console.log(`[poi-html] image-index init failed: ${(e as Error).message}`);
+}
+function lookupFallbackImage(poiId: string): string | null {
+  if (IMG_SET.has(`${poiId}.webp`)) return `/poi-images/${poiId}.webp`;
+  // Try geo-images
+  const geo = IMG_BY_STEM.get(poiId);
+  if (geo) return geo;
+  return null;
+}
+
+// FAQ sidecar — 5 Q&A per POI in 4 langs (de/hu/ro/en), AI-generated.
+// Loaded at startup. Renderer emits both a visible accordion AND a
+// FAQPage JSON-LD schema for Google rich-snippet eligibility.
+type FAQItem = { q: Partial<Record<string,string>>; a: Partial<Record<string,string>> };
+let FAQS: Record<string, FAQItem[]> = {};
+try {
+  const fp = path.resolve(process.cwd(), "public", "data", "poi-faqs.json");
+  if (fs.existsSync(fp)) {
+    FAQS = JSON.parse(fs.readFileSync(fp, "utf-8"));
+  }
+} catch {}
+
+function renderFAQ(poi: POI, lang: Lang): string {
+  const items = FAQS[poi.id];
+  if (!items || items.length === 0) return "";
+  const heading: Record<string, string> = {
+    de: "Häufige Fragen", hu: "Gyakori kérdések", ro: "Întrebări frecvente",
+    en: "Frequently asked questions", fr: "Questions fréquentes", tr: "Sıkça sorulan sorular",
+  };
+  const head = heading[lang] || heading.en!;
+  const accordion = items.map((it, i) => {
+    const q = (it.q?.[lang] || it.q?.en || it.q?.de || "").trim();
+    const a = (it.a?.[lang] || it.a?.en || it.a?.de || "").trim();
+    if (!q || !a) return "";
+    return `<details class="plz-faq-item"${i === 0 ? " open" : ""}><summary>${escapeHtml(q)}</summary><p>${escapeHtml(a)}</p></details>`;
+  }).filter(Boolean).join("");
+  if (!accordion) return "";
+  // Schema.org FAQPage JSON-LD (lang-aware)
+  const mainEntity = items.map((it) => {
+    const q = (it.q?.[lang] || it.q?.en || it.q?.de || "").trim();
+    const a = (it.a?.[lang] || it.a?.en || it.a?.de || "").trim();
+    if (!q || !a) return null;
+    return { "@type": "Question", "name": q, "acceptedAnswer": { "@type": "Answer", "text": a } };
+  }).filter(Boolean);
+  const jsonld = JSON.stringify({ "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": mainEntity });
+  return `<section class="plz-faq"><h2>${escapeHtml(head)}</h2>${accordion}</section>
+<script type="application/ld+json">${jsonld.replace(/</g, "\\u003c")}</script>`;
+}
+
 // Sight image map (slugified-sight-name + poi-id → /sight-images/X.webp).
 // Loaded once at startup. Used in renderSightCard to inject image when
 // the sight itself doesn't have an explicit image URL.
@@ -532,8 +613,9 @@ function structuredData(
       addressCountry: countryName,
     };
   }
-  if (poi.image) {
-    place.image = `${SITE_URL}${poi.image}`;
+  const imgForSchema = poi.image || lookupFallbackImage(poi.id);
+  if (imgForSchema) {
+    place.image = `${SITE_URL}${imgForSchema}`;
   }
   const wiki = wikipediaSameAs(poi, lang);
   if (wiki.length > 0) place.sameAs = wiki;
@@ -1348,7 +1430,8 @@ function renderHtml(poi: POI, lang: Lang): string | null {
 
   // Hero swiper — primary image + up to 4 sight images, swipeable with snap + dots
   const heroImages: { src: string; alt: string }[] = [];
-  if (poi.image) heroImages.push({ src: poi.image, alt: name });
+  const heroImg = poi.image || lookupFallbackImage(poi.id);
+  if (heroImg) heroImages.push({ src: heroImg, alt: name });
   for (const s of sightsArr.slice(0, 6)) {
     const sImg = (s as { image?: string }).image;
     if (sImg && heroImages.length < 5 && !heroImages.some(h => h.src === sImg)) {
@@ -1417,7 +1500,7 @@ ${hreflangLinks}
 <meta property="og:description" content="${escapeHtml(metaDesc)}"/>
 <meta property="og:url" content="${url}"/>
 <meta property="og:type" content="website"/>
-${poi.image ? `<meta property="og:image" content="${SITE_URL}${escapeHtml(poi.image)}"/>` : ""}
+${(poi.image || heroImg) ? `<meta property="og:image" content="${SITE_URL}${escapeHtml(poi.image || heroImg || "")}"/>` : ""}
 ${isAdSenseEligible(poi, lang) && !richness.isWeak ? ADSENSE_HEAD : ""}
 <link rel="stylesheet" href="/poi-static/poi.css?v=20260526h"/>
 ${structuredData(poi, lang, url, metaDesc, countryId, countrySlugFor(lang, countryId).replace(/-/g, " "), faqItems, [
@@ -1451,7 +1534,7 @@ ${structuredData(poi, lang, url, metaDesc, countryId, countrySlugFor(lang, count
   ${renderTabNav(lang, { hasItin: true, hasSights: sightsArr.length > 0 || nearbyArr.length > 0, hasNews: !!newsHtml, hasInfo: factsArr.length > 0 || geoItems.length > 0 || historyHtml })}
   <div class="plz-hero-grid" id="sec-overview">
     <div class="plz-hero-grid-main">${heroHtml}</div>
-    <div class="plz-hero-grid-side">${weatherHtml}${marineHtml}${officialLinksHtml}${yearlyHtml}${newsHtml}</div>
+    <div class="plz-hero-grid-side">${weatherHtml}${marineHtml}${officialLinksHtml}${yearlyHtml}${newsHtml}${renderFAQ(poi, lang)}</div>
   </div>
   ${descText ? `<section><p class="poi-lead-paragraph">${escapeHtml(descText)}</p></section>` : ""}
   <div id="sec-itin">${renderCityItinerary(poi, lang)}</div>

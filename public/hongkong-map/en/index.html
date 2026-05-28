@@ -150,7 +150,7 @@ const CLUSTERS=[];
 const POI_CARD={};
 const svg=document.getElementById('svg'),stage=document.getElementById('stage');
 const gR=document.getElementById('gR'),gL=document.getElementById('gL'),gP=document.getElementById('gP'),gC=document.getElementById('gC');
-const EXPAND_SCALE=6;
+const EXPAND_SCALE=3.5;
 let s=1,tx=0,ty=0;
 function ap(){const tr='translate('+tx+','+ty+') scale('+s+')';gR.setAttribute('transform',tr);gL.setAttribute('transform',tr);gP.setAttribute('transform',tr);if(gC)gC.setAttribute('transform',tr);svg.classList.toggle('expand',s>=EXPAND_SCALE)}
 function clmp(v){return Math.max(.5,Math.min(8,v))}

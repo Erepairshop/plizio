@@ -434,19 +434,25 @@ const SEARCH_PH: Record<Lang, string> = { de:"Suche…", hu:"Keresés…", ro:"C
 // Type → group mapping (5 visible groups). Unknown types fall into "other".
 type Grp = "city" | "sight" | "nature" | "history" | "industry" | "other";
 const TYPE_GROUP: Record<string, Grp> = {
-  city:"city", town:"city", village:"city",
+  city:"city", town:"city", village:"city", "state-capital":"city", capital:"city",
   sight:"sight", landmark:"sight", monument:"sight", "kid-landmark":"sight",
   museum:"sight", gallery:"sight", statue:"sight", viewpoint:"sight",
   square:"sight", tower:"sight", bridge:"sight", harbor:"sight",
+  "kid-friendly":"sight", "tourist-attraction":"sight", theater:"sight",
+  university:"sight", icon:"sight", building:"sight",
   mountain:"nature", peak:"nature", lake:"nature", river:"nature", valley:"nature",
   forest:"nature", park:"nature", wildlife:"nature", "animal-habitat":"nature",
   geo:"nature", nature:"nature", beach:"nature", waterfall:"nature", cave:"nature",
   garden:"nature", reserve:"nature", "national-park":"nature",
+  relief:"nature", island:"nature", sea:"nature", coast:"nature", desert:"nature",
+  plateau:"nature", "wildlife-area":"nature", "mountain-range":"nature", landscape:"nature",
   historical:"history", geschichte:"history",
-  castle:"history", fortress:"history", ruins:"history", palace:"history",
+  castle:"history", fortress:"history", ruins:"history", ruin:"history", palace:"history",
   church:"history", cathedral:"history", basilica:"history", monastery:"history",
   mosque:"history", synagogue:"history", temple:"history",
+  "historical-site":"history", battlefield:"history", fort:"history", fortification:"history",
   industry:"industry", factory:"industry", agriculture:"industry",
+  port:"industry", energy:"industry", mine:"industry", "trade-hub":"industry",
 };
 function groupOf(t?: string): Grp { return (t && TYPE_GROUP[t]) || "other"; }
 
@@ -783,7 +789,7 @@ const POI_CARD=${JSON.stringify(Object.fromEntries(pois.filter(p => p.img || (p.
 }])))};
 const svg=document.getElementById('svg'),stage=document.getElementById('stage');
 const gR=document.getElementById('gR'),gL=document.getElementById('gL'),gP=document.getElementById('gP'),gC=document.getElementById('gC');
-const EXPAND_SCALE=6;
+const EXPAND_SCALE=3.5;
 let s=1,tx=0,ty=0;
 function ap(){const tr='translate('+tx+','+ty+') scale('+s+')';gR.setAttribute('transform',tr);gL.setAttribute('transform',tr);gP.setAttribute('transform',tr);if(gC)gC.setAttribute('transform',tr);svg.classList.toggle('expand',s>=EXPAND_SCALE)}
 function clmp(v){return Math.max(.5,Math.min(8,v))}
