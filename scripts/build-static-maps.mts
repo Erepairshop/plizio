@@ -475,6 +475,35 @@ if (fs.existsSync(URL_INDEX_PATH)) {
   try { POI_URLS = JSON.parse(fs.readFileSync(URL_INDEX_PATH, "utf8")); } catch {}
 }
 
+// Image-manifest: list of all webp filenames living on VPS under
+// /poi-images/ and /geo-images/. POIs whose source TS lacks an `image` field
+// can still get a marker-popup thumbnail if the matching file exists.
+const IMG_MANIFEST_PATH = path.join(process.cwd(), "public", "data", "_image-manifest.json");
+const IMG_SET = new Set<string>();
+if (fs.existsSync(IMG_MANIFEST_PATH)) {
+  try {
+    const arr = JSON.parse(fs.readFileSync(IMG_MANIFEST_PATH, "utf8")) as string[];
+    for (const f of arr) IMG_SET.add(f);
+  } catch {}
+}
+function lookupFallbackImage(id: string): string | undefined {
+  const tryNames = (s: string): string | undefined => {
+    if (IMG_SET.has(`${s}.webp`)) return `/poi-images/${s}.webp`;
+    // German umlaut transliteration: nuernberg ↔ nurnberg, koeln ↔ koln
+    const stripped = s.replace(/ae/g, "a").replace(/oe/g, "o").replace(/ue/g, "u").replace(/ss/g, "s");
+    if (stripped !== s && IMG_SET.has(`${stripped}.webp`)) return `/poi-images/${stripped}.webp`;
+    return undefined;
+  };
+  const direct = tryNames(id);
+  if (direct) return direct;
+  // Strip common ID prefixes/suffixes (city-X, X-extra, X-poi)
+  let core = id;
+  if (core.startsWith("city-")) core = core.slice(5);
+  core = core.replace(/-(extra|poi)$/, "");
+  if (core !== id) return tryNames(core);
+  return undefined;
+}
+
 function slimPoi(p: any, proj: (lon:number,lat:number)=>[number,number], W:number, H:number): SlimPoi | null {
   if (!p?.coords || !Array.isArray(p.coords) || p.coords.length < 2) return null;
   const [lon, lat] = p.coords;
@@ -526,7 +555,7 @@ function slimPoi(p: any, proj: (lon:number,lat:number)=>[number,number], W:numbe
       facts[l] = arr.slice(0, 2).map((s: any) => (typeof s === "string" ? s.slice(0, 110) : ""));
     }
   }
-  const img = typeof p.image === "string" ? p.image : undefined;
+  const img = typeof p.image === "string" ? p.image : lookupFallbackImage(p.id);
   return {
     id: p.id, type: t, grp: groupOf(t),
     cx: +cx.toFixed(1), cy: +cy.toFixed(1),
@@ -1016,11 +1045,12 @@ function applySearch(){
 }
 sIn.addEventListener('input',applySearch);
 sX.addEventListener('click',()=>{sIn.value='';applySearch();sIn.focus()});
-// Click on dropdown item: zoom-pan to POI, do NOT auto-navigate (user can click again on map dot for that)
+// Click on dropdown item: zoom-pan to POI AND open its popup (same as clicking the marker).
 sRes.addEventListener('click',e=>{
   const a=e.target.closest('a[data-id]');
   if(!a)return;
   e.preventDefault();
+  const id=a.getAttribute('data-id');
   const cx=+a.getAttribute('data-cx'),cy=+a.getAttribute('data-cy');
   s=4;
   tx=W/2-cx*s;
@@ -1028,6 +1058,9 @@ sRes.addEventListener('click',e=>{
   ap();
   sRes.classList.remove('has-hits');
   sIn.blur();
+  // Find the .poi element and trigger openPopup (mirrors marker click).
+  const el=gP.querySelector('.poi[data-id="'+id.replace(/"/g,'\\"')+'"]');
+  if(el)openPopup(el);
 });
 // Close dropdown on outside click
 document.addEventListener('click',e=>{if(!sW.contains(e.target))sRes.classList.remove('has-hits')});

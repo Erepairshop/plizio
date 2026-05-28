@@ -340,11 +340,12 @@ function applySearch(){
 }
 sIn.addEventListener('input',applySearch);
 sX.addEventListener('click',()=>{sIn.value='';applySearch();sIn.focus()});
-// Click on dropdown item: zoom-pan to POI, do NOT auto-navigate (user can click again on map dot for that)
+// Click on dropdown item: zoom-pan to POI AND open its popup (same as clicking the marker).
 sRes.addEventListener('click',e=>{
   const a=e.target.closest('a[data-id]');
   if(!a)return;
   e.preventDefault();
+  const id=a.getAttribute('data-id');
   const cx=+a.getAttribute('data-cx'),cy=+a.getAttribute('data-cy');
   s=4;
   tx=W/2-cx*s;
@@ -352,6 +353,9 @@ sRes.addEventListener('click',e=>{
   ap();
   sRes.classList.remove('has-hits');
   sIn.blur();
+  // Find the .poi element and trigger openPopup (mirrors marker click).
+  const el=gP.querySelector('.poi[data-id="'+id.replace(/"/g,'\"')+'"]');
+  if(el)openPopup(el);
 });
 // Close dropdown on outside click
 document.addEventListener('click',e=>{if(!sW.contains(e.target))sRes.classList.remove('has-hits')});
